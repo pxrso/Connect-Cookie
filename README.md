@@ -1,7 +1,7 @@
 
 # Connect Cookie
 
-<h1 align="center">Connect Cookie</h1>
+<h1 align="center">Connect/Decode Cookie</h1>
 
 
 [![](https://www.codefactor.io/repository/github.com/0x91s/Connect-Cookie/)](https://www.codefactor.io/repository/github.com/0x91s/Connect-Cookie/)<br>
